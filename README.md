@@ -1,6 +1,6 @@
 - ⚒️ Working on: **Next.js Apps**
-- 📚 Learning: **SICP by G. Sussman and H. Abelson** https://g.co/kgs/rss6Nr
+- 📚 Learning: **Network Security**
 - 🔭 Looking for: **Passionate Developers**
 - 💬 Ask me about: **My Discord** 
 - 📫 How to reach me: jakobarsement@gmail.com
-- ⚡ Fun fact: > 2 billion cups of coffee are consumed daily!
+- ⚡ Fun fact: > 2 billion cups of coffee are consumed daily
