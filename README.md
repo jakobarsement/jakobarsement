@@ -1,6 +1,3 @@
-- ⚒️ Working on: **Next.js Apps**
-- 📚 Learning: **Network Security**
-- 🔭 Looking for: **Passionate Developers**
-- 💬 Ask me about: **My Discord** 
-- 📫 How to reach me: jakobarsement@gmail.com
-- ⚡ Fun fact: > 2 billion cups of coffee are consumed daily
+- ⚒️ Working on: **homedepot.com and marketlounge.org**
+- 🔭 Looking for: **Great Developers**
+- ⚡ Fun fact: *I know a bunch of devs you'd like to meet.*
