@@ -1,3 +1,3 @@
 - ⚒️ Working on: **homedepot.com and marketlounge.org**
 - 🔭 Looking for: **Great Developers**
-- ⚡ Fun fact: ** *I know a bunch of devs you'd like to meet.* **
+- ⚡ Fun fact: ***I know a bunch of devs you'd like to meet.***
