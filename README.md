@@ -1,3 +1,3 @@
-- ⚒️ Working on: **homedepot.com and marketlounge.org**
+- ⚒️ Working on: **closedloop.ai and marketlounge.org**
 - 🔭 Looking for: https://www.youtube.com/watch?v=rRm0NDo1CiY
 - ⚡ Fun fact: ***I know a bunch of devs you'd like to meet.***
