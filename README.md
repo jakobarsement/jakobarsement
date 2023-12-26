@@ -1,2 +1,3 @@
-- ⚒️ Working on: **closedloop.ai and marketlounge.org**
-- 🔭 Looking for: https://www.youtube.com/watch?v=rRm0NDo1CiY
+⚒️ Working on: [newhomesource.com](https://www.newhomesource.com/communities/tx/austin-area/austin) and [marketlounge.org](https://marketlounge.org/company/GOOG)
+
+I spend a ton of my free time studying software practices while developing personal projects such as market-lounge-v2. I love collaborating so please reach out if you're interested in tackling things together (: 
